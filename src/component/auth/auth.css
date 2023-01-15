@@ -1,0 +1,110 @@
+body {
+    /* position: absolute; */
+    /* width: 100%; */
+    /* height: 900px; */
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+}
+.union {
+    position: absolute;
+    width: 24.75px;
+    height: 25px;
+    left: 97px;
+    top: 107.67px;
+}
+
+.lendImg {
+    position: absolute;
+    width: 138.44px;
+    height: 36px;
+    left: 132.33px;
+    top: 106px;
+}
+
+.left-img {
+    position: absolute;
+    width: 600px;
+    height: 337.57px;
+    left: 67px;
+    top: 281px;
+}
+
+.form {
+    position: absolute;
+    width: 704px;
+    height: 900px;
+    left: 15%;
+    top: -5px;
+    box-shadow: 0px 15px 90px rgba(0, 0, 0, 0.03);
+}
+
+.form-welcome {
+    position: absolute;
+    width: 183px;
+    height: 55px;
+    left: 736px;
+    top: 215px;
+    font-family: 'Avenir Next';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 55px;
+    letter-spacing: -0.04em;
+    color: #213F7D;
+}
+
+.form-details {
+    position: absolute;
+    width: 194px;
+    height: 28px;
+    left: 736px;
+    top: 280px;
+    font-family: 'Avenir Next';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 27px;
+}
+
+.form input {
+    position: relative;
+    width: 447px;
+    height: 50px;
+    left: 736px;
+    top: 368px;
+    background: #FFFFFF;
+    border: 2px solid rgba(84, 95, 125, 0.15);
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+.form button {
+    position: absolute;
+    top: 62.56%;
+    left: 736px;
+    bottom: 32.11%;
+    background: #39CDCC;
+    border-radius: 8px;
+    width: 447px;
+    height: 48px;
+    color: #FFFFFF;
+    border: none;
+    cursor: pointer;
+}
+
+.form h4 {
+    position: absolute;
+    width: 147px;
+    height: 17px;
+    left: 736px;
+    top: 516px;
+    font-family: 'Avenir Next';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: right;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #39CDCC;
+}
